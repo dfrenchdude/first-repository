@@ -2,3 +2,4 @@ the rainbow
 red
 blue
 green
+yellow
